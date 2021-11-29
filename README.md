@@ -1,4 +1,4 @@
-# Chris DeCleen Boss Machine
+# Chris DeCleene Boss Machine
 > The focus of this project was to create a CRUD app using NodeJS and Express JS with a randomly generated database. I built this as part of the Full Stack Engineer Career Path on [Codecademy](https://www.codecademy.com/learn). Please share any feedback regarding this project! Happy coding!
 
 ## Table of Contents
